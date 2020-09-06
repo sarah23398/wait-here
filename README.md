@@ -7,3 +7,4 @@ TODO:
   - add database backend for customer queue
   - specify customer concerns and details for employees to view
   - send notifications to customers
+  - design and develop frontend
